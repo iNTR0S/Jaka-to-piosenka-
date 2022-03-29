@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\melodia\melodia\bin\Debug\melodia.exe.config
+C:\Users\lenovo\source\repos\melodia\melodia\bin\Debug\melodia.exe
+C:\Users\lenovo\source\repos\melodia\melodia\bin\Debug\melodia.pdb
+C:\Users\lenovo\source\repos\melodia\melodia\obj\Debug\melodia.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\melodia\melodia\obj\Debug\melodia.Form1.resources
+C:\Users\lenovo\source\repos\melodia\melodia\obj\Debug\melodia.Properties.Resources.resources
+C:\Users\lenovo\source\repos\melodia\melodia\obj\Debug\melodia.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\melodia\melodia\obj\Debug\melodia.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\melodia\melodia\obj\Debug\melodia.exe
+C:\Users\lenovo\source\repos\melodia\melodia\obj\Debug\melodia.pdb
+C:\Users\lenovo\source\repos\melodia\melodia\obj\Debug\melodia.Form2.resources
+C:\Users\lenovo\source\repos\melodia\melodia\obj\Debug\melodia.Form3.resources
